@@ -1,0 +1,20 @@
+{
+  "_note": "Edit this list to match your college's real offices. 'aliases' are other ways the office is written in documents.",
+  "offices": [
+    { "name": "Office of the College President", "aliases": ["Office of the President", "College President", "OCP"] },
+    { "name": "Vice President for Academic Affairs", "aliases": ["VPAA", "Academic Affairs"] },
+    { "name": "Vice President for Administration and Finance", "aliases": ["VPAF", "Administration and Finance"] },
+    { "name": "Accounting Office", "aliases": ["Accounting"] },
+    { "name": "Budget Office", "aliases": ["Budget"] },
+    { "name": "Cashier's Office", "aliases": ["Cashier"] },
+    { "name": "Supply and Property Office", "aliases": ["Supply Office", "Property Office", "Supply and Property"] },
+    { "name": "Bids and Awards Committee", "aliases": ["BAC"] },
+    { "name": "Human Resource Management Office", "aliases": ["HRMO", "Human Resource", "Personnel Office"] },
+    { "name": "Registrar's Office", "aliases": ["Registrar"] },
+    { "name": "Library", "aliases": ["Library Services"] },
+    { "name": "Research and Extension", "aliases": ["Research Office", "Extension Office", "Research and Development"] },
+    { "name": "Planning Office", "aliases": ["Planning and Development", "Planning"] },
+    { "name": "Student Affairs and Services", "aliases": ["Student Affairs", "SAS", "Guidance Office"] },
+    { "name": "Campus Administrator", "aliases": ["Campus Director"] }
+  ]
+}
