@@ -1,0 +1,6 @@
+# Core: enough to run the archive with the rules-baseline classifier
+fastapi>=0.110
+uvicorn>=0.29
+python-multipart>=0.0.9
+pydantic>=2.5
+pymupdf>=1.24
