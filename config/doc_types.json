@@ -1,0 +1,8 @@
+{
+  "doc_types": [
+    { "value": "procurement", "label": "Procurement", "folder": "Procurement" },
+    { "value": "financial", "label": "Financial", "folder": "Financial" },
+    { "value": "general_internal", "label": "General (internal)", "folder": "General-Internal" },
+    { "value": "general_external", "label": "General (external)", "folder": "General-External" }
+  ]
+}
